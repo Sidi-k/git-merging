@@ -1,1 +1,2 @@
 Password mindestens 7 Zeichen lang
+Password mindestens 7 Zeichen lang
